@@ -3,7 +3,7 @@
 ## Dependencias:
 
 - Feh
-- Modulos Python os, time, subprocess
+- Modulos Python: os, time, subprocess
 
 ## Configuración:
 
