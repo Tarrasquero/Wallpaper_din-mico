@@ -1,4 +1,4 @@
-# Wallpaper_din-mico
+# Wallpaper_dinamico
 
 ## Dependencias:
 
